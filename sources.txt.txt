@@ -4,7 +4,12 @@ https://www.kenney.nl/assets/animated-characters-2
 Coat of arms: 
 https://www.fantasynamegenerators.com/coat-of-arms-generator.php
 
-Code Inspiration:
+General Code Inspiration:
+Lecture
 https://blueprintue.com/blueprint/1f3v1h74/
 https://www.youtube.com/watch?v=I1QuKk2-e-k
-BlueprintUE
+
+Terrain Generator Inspiration:
+https://www.youtube.com/watch?v=gClWe2skVN0
+
+General Inspiration: Total War Series
